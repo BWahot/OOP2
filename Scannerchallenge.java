@@ -4,7 +4,7 @@ public class Scannerchallenge {
         Scanner scanner=new Scanner(System.in);
        System.out.println("Enter your name: ");
        String name=scanner.nextLine();
-       System.out.println("Enter your school:");
+       System.out.println("Enter your school name:");
        String school=scanner.nextLine();
        System.out.println("Enter your admission number:");
        int number=scanner.nextInt();
