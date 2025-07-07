@@ -74,7 +74,7 @@ class Update implements DataSource{
 
     public void execute() {
 
-        System.out.println("Data has been Updated Successfuly!");
+        System.out.println("Data has been Updated Successfully!");
 
     }
 
