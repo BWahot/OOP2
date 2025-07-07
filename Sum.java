@@ -9,7 +9,7 @@ public class Sum{
         }
     }
     public static void main(String[] args){
-        int result=sum(5);
+        int result=sum(7);
         System.out.println("Sum:"+ result);
     }
 }
