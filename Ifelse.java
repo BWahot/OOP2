@@ -15,7 +15,7 @@ public class Ifelse {
             System.out.println("Test is greater than "+number);
         }
         else{
-            System.out.println("Test is less than"+number);
+            System.out.println("Test is less than "+number);
         }
         scanner.close();
     }
