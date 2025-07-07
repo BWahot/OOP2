@@ -4,7 +4,7 @@ public class Ifelse {
         int number=5;
 
         Scanner scanner=new Scanner(System.in);
-        System.out.println("Enter the number you want to test:");
+        System.out.println("Enter the number to be tested:");
         int test=scanner.nextInt();
 
 
