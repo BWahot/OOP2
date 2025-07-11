@@ -2,7 +2,6 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-
 public class ArraySortReverse {
     public static void main(String[] args){
         String[] pallets = new String[]{"B14", "A11", "B12", "A13"};
@@ -20,5 +19,5 @@ public class ArraySortReverse {
         for (String pallet : palletList){
             System.out.println("--" + pallet);
         }
-    };
+    }
 }
